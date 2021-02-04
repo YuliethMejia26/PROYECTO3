@@ -1,0 +1,23 @@
+h1{
+    font-size: 40px;
+    color: #117A65;
+    font-weight: bolder;
+    font-family: Bahnschrift SemiBold; 
+}
+h2{
+    font-size: 30;
+    color: #117A65;
+    font-weight: bolder;
+    font-family: Bahnschrift SemiBold; 
+}
+h3{
+    font-size: 30;
+    color: #117A65;
+    font-weight: bolder;
+    font-family: Bahnschrift SemiBold; 
+}
+p{
+    font-style: italic;
+    font-size: 30;
+    font-family: Bahnschrift SemiBold;
+}
